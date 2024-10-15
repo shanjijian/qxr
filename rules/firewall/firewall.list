@@ -1,0 +1,4 @@
+# Firewall
+
+# The site is blocked from the office network
+host-suffix,music.163.com,Firewall
