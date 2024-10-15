@@ -1,5 +1,11 @@
 # Firewall
 
 # The site is blocked from the office network
-host-suffix,music.163.com,Firewall
-host-suffix,music.126.net,Firewall
+## netease
+host-suffix,163.com,Firewall
+host-suffix,126.net,Firewall
+host-suffix,127.net,Firewall
+host-suffix,163yun.com,Firewall
+host-suffix,lofter.com,Firewall
+host-suffix,netease.com,Firewall
+host-suffix,ydstatic.com,Firewall
