@@ -1,0 +1,11 @@
+# tencent
+user-agent,MicroMessenger%20Client,China
+user-agent,WeChat*,China
+host-suffix,gtimg.com,China
+host-suffix,idqqimg.com,China
+host-suffix,igamecj.com,China
+host-suffix,myapp.com,China
+host-suffix,myqcloud.com,China
+host-suffix,qq.com,China
+host-suffix,tencent.com,China
+host-suffix,tencent-cloud.net,China

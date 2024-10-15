@@ -1,7 +1,4 @@
-# Firewall
-
-# The site is blocked from the office network
-## netease
+# netease
 user-agent,NeteaseMusic*,China
 user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,China
 host-suffix,163.com,China
@@ -11,5 +8,3 @@ host-suffix,163yun.com,China
 host-suffix,lofter.com,China
 host-suffix,netease.com,China
 host-suffix,ydstatic.com,China
-## tencent
-host-suffix,mp.weixin.qq.com,China

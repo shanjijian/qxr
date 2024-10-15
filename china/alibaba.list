@@ -1,0 +1,18 @@
+# alibaba
+user-agent,%E4%BC%98%E9%85%B7*,China
+host-suffix,alibaba.com,China
+host-suffix,alicdn.com,China
+host-suffix,alikunlun.com,China
+host-suffix,alipay.com,China
+host-suffix,amap.com,China
+host-suffix,autonavi.com,China
+host-suffix,dingtalk.com,China
+host-suffix,mxhichina.com,China
+host-suffix,soku.com,China
+host-suffix,taobao.com,China
+host-suffix,tmall.com,China
+host-suffix,tmall.hk,China
+host-suffix,ykimg.com,China
+host-suffix,youku.com,China
+host-suffix,xiami.com,China
+host-suffix,xiami.net,China
