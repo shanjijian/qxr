@@ -18,6 +18,7 @@ host-suffix,ydstatic.com,Firewall
 
 ## tencent
 host-suffix,mp.weixin.qq.com,Firewall
+host-suffix,mail.qq.com,Firewall
 
 ## alibaba
 host-suffix,aliyun.com,Firewall
