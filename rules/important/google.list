@@ -60,7 +60,8 @@ host-suffix,madewithcode.com,Google
 host-suffix,synergyse.com,Google
 
 # > Gmail
-#host-keyword,gmail,Google
+host-keyword,gmail,Google
+host-suffix,in.appcenter.ms,Google
 
 # > Google Recaptcha
 host-keyword,recaptcha,Google
