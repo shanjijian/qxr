@@ -30,4 +30,4 @@ host-suffix,stripe.com,LLM
 host-suffix,poe.com,LLM
 
 # > HuggingFace
-host-suffix,huggingface.co,LLM
+# host-suffix,huggingface.co,LLM
