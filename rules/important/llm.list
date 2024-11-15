@@ -1,0 +1,33 @@
+# > OpenAI
+# >> ChatGPT
+host-suffix,chatgpt.com,LLM
+host-suffix,chat.openai.com,LLM
+
+# >> OpenAI Challenge & SSO
+host-suffix,auth0.openai.com,LLM
+host,challenges.cloudflare.com,LLM
+
+# >> OpenAI Related
+host-suffix,ai.com,LLM
+host-suffix,openai.com,LLM
+host-suffix,apps.openai.com,LLM
+host-suffix,sentry.io,LLM
+host-suffix,intercom.io,LLM
+host-suffix,identrust.com,LLM
+
+# >> OpenAI Static Files
+host-wildcard,*.oaistatic.com,LLM
+host-wildcard,*.oaiusercontent.com,LLM
+
+# >> OpenAI CDN
+host-suffix,chat.openai.com.cdn.cloudflare.net,LLM
+host-suffix,openaiapi-site.azureedge.net,LLM
+
+# >> OpenAI Other
+host-suffix,challenges.cloudflare.com,LLM
+host-suffix,invoice.stripe.com,LLM
+host-suffix,stripe.com,LLM
+host-suffix,poe.com,LLM
+
+# > HuggingFace
+host-suffix,huggingface.co,LLM
