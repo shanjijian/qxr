@@ -1,33 +1,58 @@
-# > OpenAI
-# >> ChatGPT
+# > OpenAI / ChatGPT
 host-suffix,chatgpt.com,LLM
-host-suffix,chat.openai.com,LLM
-
-# >> OpenAI Challenge & SSO
-host-suffix,auth0.openai.com,LLM
-host,challenges.cloudflare.com,LLM
-
-# >> OpenAI Related
-host-suffix,ai.com,LLM
 host-suffix,openai.com,LLM
-host-suffix,apps.openai.com,LLM
-host-suffix,sentry.io,LLM
-host-suffix,intercom.io,LLM
-host-suffix,identrust.com,LLM
-
-# >> OpenAI Static Files
-host-wildcard,*.oaistatic.com,LLM
-host-wildcard,*.oaiusercontent.com,LLM
-
-# >> OpenAI CDN
+host-suffix,oaistatic.com,LLM
+host-suffix,oaiusercontent.com,LLM
+host-suffix,ai.com,LLM
+host-suffix,auth0.openai.com,LLM
 host-suffix,chat.openai.com.cdn.cloudflare.net,LLM
 host-suffix,openaiapi-site.azureedge.net,LLM
+host-keyword,openaicom,LLM
 
-# >> OpenAI Other
-host-suffix,challenges.cloudflare.com,LLM
-host-suffix,invoice.stripe.com,LLM
-host-suffix,stripe.com,LLM
+# > Anthropic / Claude
+host-suffix,anthropic.com,LLM
+host-suffix,claude.ai,LLM
+host-suffix,claude.site,LLM
+host-suffix,claudefdn.org,LLM
+
+# > Google Gemini & AI
+host-suffix,gemini.google.com,LLM
+host-suffix,aistudio.google.com,LLM
+host-suffix,makersuite.google.com,LLM
+host-suffix,deepmind.google,LLM
+host-suffix,generativelanguage.googleapis.com,LLM
+host-suffix,proactivebackend-pa.googleapis.com,LLM
+
+# > Microsoft Copilot
+host-suffix,copilot.microsoft.com,LLM
+host,sydney.bing.com,LLM
+
+# > xAI / Grok
+host-suffix,x.ai,LLM
+host-suffix,grok.com,LLM
+
+# > Perplexity
+host-suffix,perplexity.ai,LLM
+host-suffix,pplx.ai,LLM
+
+# > Cursor
+host-suffix,cursor.com,LLM
+host-suffix,cursor.sh,LLM
+
+# > Mistral AI
+host-suffix,mistral.ai,LLM
+
+# > Cohere
+host-suffix,cohere.com,LLM
+host-suffix,cohere.ai,LLM
+
+# > Poe
 host-suffix,poe.com,LLM
 
+# > DeepSeek
+host-suffix,deepseek.com,LLM
+
 # > HuggingFace
-# host-suffix,huggingface.co,LLM
+host-suffix,huggingface.co,LLM
+host-suffix,hf.co,LLM
+host-suffix,hf.space,LLM

@@ -1,4 +1,84 @@
 # Develop
 
-# Java
+# > Docker & Containers
+host-suffix,docker.com,Develop
+host-suffix,docker.io,Develop
+host-suffix,hub.docker.com,Develop
+host-suffix,registry-1.docker.io,Develop
+host-suffix,production.cloudflare.docker.com,Develop
+host-suffix,ghcr.io,Develop
+host-suffix,quay.io,Develop
+host-suffix,gcr.io,Develop
+host-suffix,pkg.dev,Develop
+
+# > Java / Kotlin / JVM
 host-suffix,repo.maven.apache.org,Develop
+host-suffix,central.maven.org,Develop
+host-suffix,search.maven.org,Develop
+host-suffix,maven.org,Develop
+host-suffix,gradle.org,Develop
+host-suffix,plugins.gradle.org,Develop
+host-suffix,services.gradle.org,Develop
+host-suffix,spring.io,Develop
+
+# > Node.js / JavaScript
+host-suffix,npmjs.com,Develop
+host-suffix,npmjs.org,Develop
+host-suffix,registry.npmjs.org,Develop
+host-suffix,yarnpkg.com,Develop
+host-suffix,deno.land,Develop
+host-suffix,bun.sh,Develop
+
+# > Python
+host-suffix,pypi.org,Develop
+host-suffix,pypi.python.org,Develop
+host-suffix,files.pythonhosted.org,Develop
+host-suffix,pythonhosted.org,Develop
+
+# > Go
+host-suffix,golang.org,Develop
+host-suffix,pkg.go.dev,Develop
+host-suffix,proxy.golang.org,Develop
+host-suffix,sum.golang.org,Develop
+
+# > Rust
+host-suffix,crates.io,Develop
+host-suffix,rust-lang.org,Develop
+host-suffix,static.rust-lang.org,Develop
+
+# > macOS / iOS / Homebrew
+host-suffix,brew.sh,Develop
+host-suffix,formulae.brew.sh,Develop
+host-suffix,cocoapods.org,Develop
+
+# > PHP / Ruby / Dart
+host-suffix,packagist.org,Develop
+host-suffix,rubygems.org,Develop
+host-suffix,pub.dev,Develop
+
+# > IDEs & Developer Tools
+host-suffix,jetbrains.com,Develop
+host-suffix,plugins.jetbrains.com,Develop
+host-suffix,download.jetbrains.com,Develop
+host-suffix,visualstudio.com,Develop
+host-suffix,vscode.dev,Develop
+host-suffix,vcpkg.io,Develop
+
+# > Code Hosting & Collaboration
+host-suffix,gitlab.com,Develop
+host-suffix,bitbucket.org,Develop
+host-suffix,sourceforge.net,Develop
+host-suffix,sourcegraph.com,Develop
+
+# > Cloud & Edge Computing
+host-suffix,cloudflare.com,Develop
+host-suffix,workers.dev,Develop
+host-suffix,pages.dev,Develop
+host-suffix,vercel.com,Develop
+host-suffix,vercel.app,Develop
+host-suffix,supabase.com,Develop
+host-suffix,supabase.co,Develop
+host-suffix,netlify.app,Develop
+host-suffix,railway.app,Develop
+host-suffix,render.com,Develop
+host-suffix,heroku.com,Develop

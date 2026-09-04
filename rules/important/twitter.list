@@ -1,10 +1,17 @@
-# > Twitter
-host-suffix,pscp.tv,Twitter
-host-suffix,periscope.tv,Twitter
+# > Twitter / X
+host-suffix,twitter.com,Twitter
+host-suffix,x.com,Twitter
 host-suffix,t.co,Twitter
 host-suffix,twimg.co,Twitter
 host-suffix,twimg.com,Twitter
+host-suffix,twimg.org,Twitter
 host-suffix,twitpic.com,Twitter
+host-suffix,tweetdeck.com,Twitter
+host-suffix,twitter.inc,Twitter
+host-suffix,twitteroauth.com,Twitter
+host-suffix,twitterstat.us,Twitter
+host-suffix,pscp.tv,Twitter
+host-suffix,periscope.tv,Twitter
 host-suffix,vine.co,Twitter
-host-suffix,x.com,Twitter
+host-suffix,cms-twdigitalassets.com,Twitter
 host-keyword,twitter,Twitter
